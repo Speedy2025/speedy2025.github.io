@@ -1,2 +1,1 @@
-# speedy2025.github.io
-This is a placeholder website.
+# Website under development. Don't come back for a while.
